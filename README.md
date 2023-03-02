@@ -34,12 +34,8 @@
       <td align="center">
         <a target="_blank" href="#"><img alt height="180px" width="180px" src="영훈사진.jpg"/></a>
       </td>
-      <td align="center">
-
-      </td>
-      <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="영훈사진.jpg"/></a>
-      </td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
     </tr>
     <tr>
