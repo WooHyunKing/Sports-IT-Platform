@@ -34,7 +34,9 @@
       <td align="center">
         <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/영훈사진.jpg"/></a>
       </td>
-      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">
+        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/명규사진.jpg"/></a>
+      </td>
       <td align="center">
         <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/준수사진.jpg"/></a>
       </td>
@@ -42,9 +44,9 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/dudgns2947">gongzuri</a> </td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/MyeongQ">MeongQ</a></td>
       <td align="center"><a href="https://github.com/dlwnstn0524">level_lee</a></td>
-      <td align="center"><a href="https://github.com/dlwnstn0524">WooHyunKing</a></td>
+      <td align="center"><a href="https://github.com/WooHyunKing">WooHyunKing</a></td>
     </tr>
     <tr>
       <td align="center">
@@ -54,7 +56,12 @@
           <li>제 1대 소프트웨어융합대학 학생회 글로벌융합국장</li>
         </ul>
       </td>
-      <td align="center"></td>
+      <td align="center">
+        <ul>
+          <li>육군병장 만기전역</li>
+          <li>아주대학교 iKnowLab 인턴 근무 (~2022.01)</li>
+        </ul>
+      </td>
       <td align="center">
         <ul>
             <li>해군병장 만기전역 ㅋ</li>
