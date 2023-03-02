@@ -21,28 +21,30 @@
    <th align="center">김영훈</th>
    <th align="center">공명규</th>
    <th align="center">이준수</th>
-   <th align="center">신우</th>
+   <th align="center">신우현</th>
   </thead>
   <tbody>
     <tr>
       <td align="center">Devops</td>
+      <td align="center"></td>
       <td align="center">Mobile, Back-End</td>
-      <td align="center">ㅎ?ㅇ</td>
-      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">Front-End</td>
     </tr>
     <tr>
       <td align="center">
         <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/영훈사진.jpg"/></a>
       </td>
       <td align="center">ㅎ?ㅇ</td>
-      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">
+        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/준수사진.jpeg"/></a>
+      </td>
       <td align="center">ㅎ?ㅇ</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/dudgns2947">gongzuri</a> </td>
       <td align="center"></td>
       <td align="center"><a href="https://github.com/dlwnstn0524">level_lee</a></td>
-      <td align="center">ㅎ?ㅇ</td>
+      <td align="center"><a href="https://github.com/dlwnstn0524">WooHyunKing</a></td>
     </tr>
     <tr>
       <td align="center">
@@ -59,7 +61,12 @@
             <li>2022 하계방학 이커머스 플랫폼 'FIM ASIA' 인턴 근무</li>
           </ul>
       </td>
-      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">
+        <ul>
+            <li>육군병장 만기전역</li>
+            <li>2022 동계방학 LS ware 인턴 근무</li>
+          </ul>
+      </td>
     </tr>
   </tbody>
 </table>
