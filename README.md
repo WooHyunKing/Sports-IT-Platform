@@ -3,7 +3,7 @@
 <div align=center>
 
 <a href="https://github.com/PlayMaker-S/Sports-IT-platform/graphs/contributors">
-  <img src="sport-it_logo.png" height="200px" width="200px"/>
+  <img src="img/sport-it_logo.png" height="200px" width="200px"/>
 </a>
 
 </div>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="영훈사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/영훈사진.jpg"/></a>
       </td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
