@@ -26,7 +26,7 @@
   <tbody>
     <tr>
       <td align="center">Devops</td>
-      <td align="center"></td>
+      <td align="center">Database, Back-End</td>
       <td align="center">Mobile, Back-End</td>
       <td align="center">Front-End</td>
     </tr>
