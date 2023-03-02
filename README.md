@@ -1,4 +1,4 @@
-# 🤗 Welcome to Sports-iT platform!
+# 🤗 Welcome to Sports-IT Platform!
 
 <div align=center>
 
