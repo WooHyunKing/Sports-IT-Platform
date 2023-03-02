@@ -2,7 +2,7 @@
 
 <div align=center>
 
-<a href="https://github.com/LinkedSports/Sports-iT-App/graphs/contributors">
+<a href="https://github.com/PlayMaker-S/Sports-IT-platform/graphs/contributors">
   <img src="sport-it_logo.png" height="200px" width="200px"/>
 </a>
 
