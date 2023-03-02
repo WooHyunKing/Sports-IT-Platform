@@ -36,9 +36,9 @@
       </td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/준수사진.jpeg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/준수사진.jpg"/></a>
       </td>
-      <td align="center">ㅎ?ㅇ</td>
+      <td align="center"><a target="_blank" href="#"><img alt height="180px" width="180px" src="img/우현사진.jpg"/></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/dudgns2947">gongzuri</a> </td>
