@@ -32,15 +32,17 @@
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/영훈사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="170px" src="img/영훈사진.jpg"/></a>
       </td>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/명규사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="145px" src="img/명규사진.jpg"/></a>
       </td>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/준수사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="145px" src="img/준수사진.jpg"/></a>
       </td>
-      <td align="center"><a target="_blank" href="#"><img alt height="180px" width="180px" src="img/우현사진.jpg"/></a></td>
+      <td align="center">
+        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/우현사진.jpg"/></a>
+      </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/dudgns2947">gongzuri</a> </td>
@@ -64,15 +66,15 @@
       </td>
       <td align="center">
         <ul>
-            <li>해군병장 만기전역 ㅋ</li>
-            <li>2022 하계방학 이커머스 플랫폼 'FIM ASIA' 인턴 근무</li>
-          </ul>
+          <li>해군병장 만기전역 ㅋ</li>
+          <li>2022 하계방학 이커머스 플랫폼 'FIM ASIA' 인턴 근무</li>
+        </ul>
       </td>
       <td align="center">
         <ul>
-            <li>육군병장 만기전역</li>
-            <li>2022 동계방학 LS ware 인턴 근무</li>
-          </ul>
+          <li>육군병장 만기전역</li>
+          <li>2022 동계방학 LS ware 인턴 근무</li>
+        </ul>
       </td>
     </tr>
   </tbody>
