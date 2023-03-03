@@ -89,7 +89,7 @@
 
 
 ## 🎃 회의록
-#### [2023-03-02]() <br/>
+#### [2023-03-02](https://docs.google.com/document/d/1_PnYa7qbz4IFehya34LuIMxyMxEma1UphP67YIu4YYY/edit#heading=h.hhevn0icya3z) <br/>
 
 
 ## 🔥 Goal
@@ -105,9 +105,15 @@
 
 ---
 
+## 🥰 기획
+
+- [Figma 프로토타입 기획서](https://www.figma.com/file/KkMLTvwHAVXthiObsXL9NP/WebApp-Storyborad-team-library?node-id=0%3A1&t=upI6C9l0gcBDnYw6-0)
+
+- [Sport-it 앱기획서](https://docs.google.com/presentation/d/16y0dDyOeeRPwVwoP6MvCwz6UKXiinUctqIsRQ2xUiqk/edit)
+
+---
 ## 참고
 
-- [디자인 및 기획서](https://github.com/orgs/LinkedSports/people)
 
 - [Figma 사용법](https://slash-amaranthus-65c.notion.site/Figma-c1dead5d929d44498e94641f8058e10d)
 
