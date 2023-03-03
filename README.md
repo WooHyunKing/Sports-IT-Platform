@@ -10,9 +10,10 @@
 
 ## 🧑🏻‍💻 Introduce
 
-안녕하세요, 여기는 Sport-iT 플랫폼을 개발하고 관리 및 기록하는 장소입니다! <br/>
+안녕하세요, 여기는 Sport-iT 플랫폼을 개발하고 관리 및 기록하는 장소입니다! 
+- [특허출원통지서](https://drive.google.com/file/d/1zWWl8Rf1-3Mnvgm4VATVA6M3-XWzQ9It/view?usp=share_link)
 
----
+<br/>
 
 ## 💫 팀원 소개
 <table>
@@ -26,21 +27,23 @@
   <tbody>
     <tr>
       <td align="center">Devops</td>
-      <td align="center"></td>
+      <td align="center">Database, Back-End</td>
       <td align="center">Mobile, Back-End</td>
       <td align="center">Front-End</td>
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/영훈사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="170px" src="img/영훈사진.jpg"/></a>
       </td>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/명규사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="145px" src="img/명규사진.jpg"/></a>
       </td>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/준수사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="145px" src="img/준수사진.jpg"/></a>
       </td>
-      <td align="center"><a target="_blank" href="#"><img alt height="180px" width="180px" src="img/우현사진.jpg"/></a></td>
+      <td align="center">
+        <a target="_blank" href="#"><img alt height="180px" width="180px" src="img/우현사진.jpg"/></a>
+      </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/dudgns2947">gongzuri</a> </td>
@@ -64,15 +67,15 @@
       </td>
       <td align="center">
         <ul>
-            <li>해군병장 만기전역 ㅋ</li>
-            <li>2022 하계방학 이커머스 플랫폼 'FIM ASIA' 인턴 근무</li>
-          </ul>
+          <li>해군병장 만기전역 ㅋ</li>
+          <li>2022 하계방학 이커머스 플랫폼 'FIM ASIA' 인턴 근무</li>
+        </ul>
       </td>
       <td align="center">
         <ul>
-            <li>육군병장 만기전역</li>
-            <li>2022 동계방학 LS ware 인턴 근무</li>
-          </ul>
+          <li>육군병장 만기전역</li>
+          <li>2022 동계방학 LS ware 인턴 근무</li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -87,7 +90,7 @@
 
 
 ## 🎃 회의록
-#### [2023-03-02]() <br/>
+#### [2023-03-02](https://docs.google.com/document/d/1_PnYa7qbz4IFehya34LuIMxyMxEma1UphP67YIu4YYY/edit#heading=h.hhevn0icya3z) <br/>
 
 
 ## 🔥 Goal
@@ -103,9 +106,15 @@
 
 ---
 
+## 🥰 기획
+
+- [Figma 프로토타입 기획서](https://www.figma.com/file/KkMLTvwHAVXthiObsXL9NP/WebApp-Storyborad-team-library?node-id=0%3A1&t=upI6C9l0gcBDnYw6-0)
+
+- [Sport-it 앱기획서](https://docs.google.com/presentation/d/16y0dDyOeeRPwVwoP6MvCwz6UKXiinUctqIsRQ2xUiqk/edit)
+
+---
 ## 참고
 
-- [디자인 및 기획서](https://github.com/orgs/LinkedSports/people)
 
 - [Figma 사용법](https://slash-amaranthus-65c.notion.site/Figma-c1dead5d929d44498e94641f8058e10d)
 
