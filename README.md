@@ -10,7 +10,9 @@
 
 ## 🧑🏻‍💻 Introduce
 
-안녕하세요, 여기는 Sport-iT 플랫폼을 개발하고 관리 및 기록하는 장소입니다! <br/>
+안녕하세요, 여기는 Sport-iT 플랫폼을 개발하고 관리 및 기록하는 장소입니다! 
+- [특허출원통지서]([https://drive.google.com/file/d/1k3D3W_RjFst6AngPGwGBBHi4bpIyu5au/view?usp=share_link](https://drive.google.com/file/d/1zWWl8Rf1-3Mnvgm4VATVA6M3-XWzQ9It/view?usp=share_link))
+<br/>
 
 ---
 
