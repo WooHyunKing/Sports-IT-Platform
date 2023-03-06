@@ -110,7 +110,9 @@
 
 - [Figma 프로토타입 기획서](https://www.figma.com/file/KkMLTvwHAVXthiObsXL9NP/WebApp-Storyborad-team-library?node-id=0%3A1&t=upI6C9l0gcBDnYw6-0)
 
-- [Sport-it 앱기획서](https://docs.google.com/presentation/d/16y0dDyOeeRPwVwoP6MvCwz6UKXiinUctqIsRQ2xUiqk/edit)
+- [Sport-it 앱기획서](https://docs.google.com/presentation/d/16y0dDyOeeRPwVwoP6MvCwz6UKXiinUctqIsRQ2xUiqk/edit)]
+
+- [Figma 1차 프로토타입 완성본](https://www.figma.com/file/r22vLr44lYeZ9Ewa0wWtZG/Sports-it?node-id=0%3A1&t=3CWaeRBZcUeBoUWl-0)
 
 ---
 ## 참고
