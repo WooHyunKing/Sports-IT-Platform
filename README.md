@@ -86,11 +86,13 @@
 ---
 
 ## 🛎️개발로그
-#### [2023-03-02]() <br/>
+#### [2023-03-02](#) <br/>
 
 
-## 🎃 회의록
-#### [2023-03-02](https://docs.google.com/document/d/1_PnYa7qbz4IFehya34LuIMxyMxEma1UphP67YIu4YYY/edit#heading=h.hhevn0icya3z) <br/>
+## 🎃 캡스톤디자인-실습일지
+#### [2023-03-02](https://docs.google.com/document/d/1_PnYa7qbz4IFehya34LuIMxyMxEma1UphP67YIu4YYY/edit#heading=h.hhevn0icya3z) 
+#### [2023-03-06](https://docs.google.com/document/d/1kgtIP7oul6M-yrTJ69PlWwlIq0nhXFXqi02bysBzonI/edit)
+<br/>
 
 
 ## 🔥 Goal
