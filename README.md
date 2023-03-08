@@ -13,6 +13,71 @@
 안녕하세요, 여기는 Sport-iT 플랫폼을 개발하고 관리 및 기록하는 장소입니다! 
 - [특허출원통지서](https://drive.google.com/file/d/1zWWl8Rf1-3Mnvgm4VATVA6M3-XWzQ9It/view?usp=share_link)
 
+## 📖PR CONVENTION
+<table>
+  <thead>
+    <tr>
+      <th>태그</th>
+      <th>설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>feat: </code></td>
+      <td>새로운 기능을 추가할 경우</td>
+    </tr>
+    <tr>
+      <td><code>fix: </code></td>
+      <td>버그를 고친 경우</td>
+    </tr>
+    <tr>
+      <td><code>design: </code></td>
+      <td>CSS 등 사용자 UI 디자인 변경</td>
+    </tr>
+    <tr>
+      <td><code>!BREAKING CHANGE: </code></td>
+      <td>커다란 API 변경의 경우</td>
+    </tr>
+    <tr>
+      <td><code>!HOTFIX: </code></td>
+      <td>급하게 치명적인 버그를 고쳐야하는 경우</td>
+    </tr>
+    <tr>
+      <td><code>style: </code></td>
+      <td>코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우</td>
+    </tr>
+    <tr>
+      <td><code>refactor: </code></td>
+      <td>프로덕션 코드 리팩토링</td>
+    </tr>
+    <tr>
+      <td><code>comment: </code></td>
+      <td>필요한 주석 추가 및 변경</td>
+    </tr>
+    <tr>
+      <td><code>docs: </code></td>
+      <td>문서를 수정한 경우</td>
+    </tr>
+    <tr>
+      <td><code>test: </code></td>
+      <td>테스트 추가, 테스트 리팩토링(프로덕션 코드 변경 X)</td>
+    </tr>
+    <tr>
+      <td><code>chore: </code></td>
+      <td>빌드 테스트 업데이트, 패키지 매니저를 설정하는 경우(프로덕션 코드 변경 X)</td>
+    </tr>
+    <tr>
+      <td><code>rename: </code></td>
+      <td>파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우</td>
+    </tr>
+    <tr>
+      <td><code>remove: </code></td>
+      <td>파일을 삭제하는 작업만 수행한 경우</td>
+    </tr>
+   </tbody>
+  </table>
+
+
 <br/>
 
 ## 💫 팀원 소개
