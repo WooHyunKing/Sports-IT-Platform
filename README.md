@@ -11,6 +11,7 @@
 ## 🧑🏻‍💻 Introduce
 
 안녕하세요, 여기는 Sport-iT 플랫폼을 개발하고 관리 및 기록하는 장소입니다! 
+- [회의록](https://www.notion.so/23356ef3f00f4e1791633a8b90176fe6?pvs=4)
 - [특허출원통지서](https://drive.google.com/file/d/1zWWl8Rf1-3Mnvgm4VATVA6M3-XWzQ9It/view?usp=share_link)
 
 ## 📖PR CONVENTION
