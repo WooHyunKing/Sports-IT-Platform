@@ -16,7 +16,7 @@ import PlayerRegister from "./pages/player-register/PlayerRegister";
 import SignUp from "./pages/account/SignUp";
 import SignUpSuccess from "./pages/account/SignUpSuccess";
 import RoleSelect from "./pages/account/roleSelect/RoleSelect";
-import EventSelect from "./pages/account/EventSelect";
+import EventSelect from "./pages/account/eventSelect/EventSelect";
 
 const Router = () => {
   return (

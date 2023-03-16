@@ -13,7 +13,7 @@ export const QuestionArea = styled.div`
 export const QuestionText = styled.span`
   font-size: 40px;
   font-weight: 40px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 `;
 
 export const SelectArea = styled.div`

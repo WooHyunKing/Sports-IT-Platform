@@ -1,16 +1,10 @@
-import React from "react";
-import styled from "styled-components";
 import { Container } from "../../../Components/container/container";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faChevronLeft,
-  faCircleCheck,
-} from "@fortawesome/free-solid-svg-icons";
 import { useRecoilState } from "recoil";
 import { roleAtom } from "../../../atoms/roleAtom";
 import GoBackHeader from "../../../Components/header/GoBackHeader";
-import { IRole } from "../../../interfaces/roleInterface";
 import * as S from "./RoleSelectStyles";
+import { Link } from "react-router-dom";
+import NavBar from "../../../Components/navbar/NavBar";
 
 const RoleSelect = () => {
   const [role, setRole] = useRecoilState<boolean>(roleAtom);
@@ -47,9 +41,9 @@ const RoleSelect = () => {
           </S.RoleArea>
         </S.SportyButton>
       </S.SelectArea>
-      <S.NavArea>
-        <S.NavText>다음</S.NavText>
-      </S.NavArea>
+      <Link to="/event-select">
+        <NavBar active={true} />
+      </Link>
     </Container>
   );
 };

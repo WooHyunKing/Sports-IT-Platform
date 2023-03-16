@@ -1,10 +1,11 @@
 import React from "react";
+import { Container } from "../../Components/container/container";
 
 const SignUp = () => {
   return (
-    <div>
+    <Container>
       <h1>This is Sign Up page !</h1>
-    </div>
+    </Container>
   );
 };
 
