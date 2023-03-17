@@ -1,6 +1,7 @@
 import React from "react";
 import { useForm } from "react-hook-form";
 import { useMutation } from "react-query";
+import { useNavigate } from "react-router-dom";
 import { useRecoilValue } from "recoil";
 import styled from "styled-components";
 import { signupPost } from "../../../api/account/accountApi";
@@ -24,15 +25,19 @@ import * as S from "./SignUpStyles";
 const SignUp = () => {
   const { register, handleSubmit, formState } = useForm<ISignUpForm>();
   const role = useRecoilValue(roleAtom);
+  const navigate = useNavigate();
 
-  const loginPost = useMutation("loginPost", signupPost, {
-    onSuccess: (res) => console.log("success!!", res),
+  const { mutate } = useMutation("signupPost", signupPost, {
+    onSuccess: (res) => {
+      console.log("success!!", res);
+      navigate("/login");
+    },
     onError: (res) => console.log("Error!!", res),
     onSettled: (res) => console.log("Post is called !", res),
   });
 
-  const onValid = async (data: ISignUpForm) => {
-    loginPost.mutate({
+  const onValid = (data: ISignUpForm) => {
+    mutate({
       loginId: data.id,
       pw: data.password,
       name: data.name,
