@@ -1,3 +1,7 @@
+// export enum Roles{
+
+// }
+
 export interface IRole {
-  spoitor: boolean;
+  role: "ROLE_INSTITUTION" | "ROLE_USER" | "ROLE_ADMIN";
 }
