@@ -23,5 +23,12 @@ export const SelectArea = styled.div`
 `;
 
 export const BottomArea = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 10%;
+`;
+
+export const BottomText = styled.span`
+  color: #747474;
 `;

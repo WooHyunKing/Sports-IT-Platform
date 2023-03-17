@@ -30,7 +30,8 @@ export const SpoitorButton = styled.button<IRole>`
   justify-content: flex-start;
   align-items: center;
   border: 1px solid;
-  border-color: ${(props) => (props.spoitor ? "#212121" : "#EDEDED")};
+  border-color: ${(props) =>
+    props.role === "ROLE_INSTITUTION" ? "#212121" : "#EDEDED"};
   border-radius: 12px;
   width: 335px;
   height: 100px;
@@ -41,20 +42,22 @@ export const SpoitorButton = styled.button<IRole>`
 `;
 
 export const SportyButton = styled(SpoitorButton)`
-  border-color: ${(props) => (props.spoitor ? "#EDEDED" : "#212121")};
+  border-color: ${(props) =>
+    props.role === "ROLE_USER" ? "#212121" : "#EDEDED"};
 `;
 
 export const SporitorSelectIcon = styled(FontAwesomeIcon).attrs({
   icon: faCircleCheck,
 })<IRole>`
-  color: ${(props) => (props.spoitor ? "#212121" : "#EDEDED")};
+  color: ${(props) =>
+    props.role === "ROLE_INSTITUTION" ? "#212121" : "#EDEDED"};
   height: 20px;
   width: 20px;
   margin-right: 10px;
 `;
 
 export const SportySelectIcon = styled(SporitorSelectIcon)`
-  color: ${(props) => (props.spoitor ? "#EDEDED" : "#212121")};
+  color: ${(props) => (props.role === "ROLE_USER" ? "#212121" : "#EDEDED")};
 `;
 
 export const RoleArea = styled.div`

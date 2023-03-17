@@ -1,10 +1,7 @@
 import { atom } from "recoil";
+import { IRole, RoleAtomType } from "../interfaces/roleInterface";
 
-// export enum Roles{
-//   ""
-// }
-
-export const roleAtom = atom<boolean>({
+export const roleAtom = atom<RoleAtomType>({
   key: "role",
-  default: true,
+  default: "ROLE_USER",
 });

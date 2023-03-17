@@ -5,9 +5,11 @@ import GoBackHeader from "../../../Components/header/GoBackHeader";
 import * as S from "./RoleSelectStyles";
 import { Link } from "react-router-dom";
 import NavBar from "../../../Components/navbar/NavBar";
+import { IRole, RoleAtomType } from "../../../interfaces/roleInterface";
 
 const RoleSelect = () => {
-  const [role, setRole] = useRecoilState<boolean>(roleAtom);
+  const [role, setRole] = useRecoilState<RoleAtomType>(roleAtom);
+  console.log(role);
   return (
     <Container>
       <GoBackHeader />
@@ -17,10 +19,10 @@ const RoleSelect = () => {
       </S.QuestionArea>
       <S.SelectArea>
         <S.SpoitorButton
-          onClick={() => setRole((current) => !current)}
-          spoitor={role}
+          onClick={() => setRole("ROLE_INSTITUTION")}
+          role={role}
         >
-          <S.SporitorSelectIcon spoitor={role} />
+          <S.SporitorSelectIcon role={role} />
           <S.RoleArea>
             <S.Role>스포이터</S.Role>
             <S.RoleDescription>
@@ -28,11 +30,8 @@ const RoleSelect = () => {
             </S.RoleDescription>
           </S.RoleArea>
         </S.SpoitorButton>
-        <S.SportyButton
-          onClick={() => setRole((current) => !current)}
-          spoitor={role}
-        >
-          <S.SportySelectIcon spoitor={role} />
+        <S.SportyButton onClick={() => setRole("ROLE_USER")} role={role}>
+          <S.SportySelectIcon role={role} />
           <S.RoleArea>
             <S.Role>스포티</S.Role>
             <S.RoleDescription>

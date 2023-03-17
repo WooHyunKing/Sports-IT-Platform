@@ -13,7 +13,7 @@ import * as S from "./EventSelectStyles";
 const EventSelect = () => {
   const [events, setEvents] = useRecoilState<IEvent>(eventAtom);
   const [count, setCount] = useRecoilState(eventCountAtom);
-  console.log(count);
+
   return (
     <Container>
       <GoBackHeader />
@@ -31,7 +31,9 @@ const EventSelect = () => {
           ></EventSelectButton>
         ))}
       </S.SelectArea>
-      <S.BottomArea></S.BottomArea>
+      <S.BottomArea>
+        <S.BottomText>5개까지 선택 가능합니다.</S.BottomText>
+      </S.BottomArea>
       <Link to="/signup">
         <NavBar active={count >= 5 ? true : false} />
       </Link>

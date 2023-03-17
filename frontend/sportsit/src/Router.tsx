@@ -13,7 +13,7 @@ import MyPage from "./pages/mypage/MyPage";
 import Network from "./pages/network/Network";
 import OfficialDocument from "./pages/official-document/OfficialDocument";
 import PlayerRegister from "./pages/player-register/PlayerRegister";
-import SignUp from "./pages/account/SignUp";
+import SignUp from "./pages/account/signup/SignUp";
 import SignUpSuccess from "./pages/account/SignUpSuccess";
 import RoleSelect from "./pages/account/roleSelect/RoleSelect";
 import EventSelect from "./pages/account/eventSelect/EventSelect";
