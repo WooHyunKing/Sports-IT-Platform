@@ -1,7 +1,5 @@
-// export enum Roles{
-
-// }
+export type RoleAtomType = "ROLE_INSTITUTION" | "ROLE_USER" | "ROLE_ADMIN";
 
 export interface IRole {
-  role: "ROLE_INSTITUTION" | "ROLE_USER" | "ROLE_ADMIN";
+  role: RoleAtomType;
 }

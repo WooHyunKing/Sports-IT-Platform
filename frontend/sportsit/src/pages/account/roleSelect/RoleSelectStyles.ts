@@ -25,7 +25,7 @@ export const SelectArea = styled.div`
   height: 45%;
 `;
 
-export const SpoitorButton = styled.button`
+export const SpoitorButton = styled.button<IRole>`
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -48,7 +48,7 @@ export const SportyButton = styled(SpoitorButton)`
 
 export const SporitorSelectIcon = styled(FontAwesomeIcon).attrs({
   icon: faCircleCheck,
-})`
+})<IRole>`
   color: ${(props) =>
     props.role === "ROLE_INSTITUTION" ? "#212121" : "#EDEDED"};
   height: 20px;
